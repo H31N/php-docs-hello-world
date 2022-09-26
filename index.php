@@ -1,3 +1,3 @@
 <?php
-    echo "Hello Azure!";
+    echo "Hello Henrique, the web application is working now!";
 ?>
