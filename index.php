@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello World!";
+echo "Hello Henrique, the app service is working now";
+?>
