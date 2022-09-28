@@ -1,3 +1,3 @@
 <?php
-    echo "Hello Henrique, the web application is working now!";
+    echo "Can Artificial Intelligence Invent Things? A Curious Legal Case Could Have Big Implications for Business";
 ?>
